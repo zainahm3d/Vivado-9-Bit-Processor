@@ -1,0 +1,123 @@
+/*
+
+Xilinx Vivado v2018.3 (64-bit) [Major: 2018, Minor: 3]
+SW Build: 2405991 on Thu Dec  6 23:38:27 MST 2018
+IP Build: 2404404 on Fri Dec  7 01:43:56 MST 2018
+
+Process ID (PID): 8508
+License: Customer
+
+Current time: 	Sun Mar 10 13:58:22 EDT 2019
+Time zone: 	Eastern Standard Time (America/New_York)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 2880x1800
+Screen resolution (DPI): 144
+Available screens: 1
+Available disk space: 27 GB
+Default font: family=Segoe UI,name=Segoe UI,style=plain,size=21
+
+Java version: 	9.0.4 64-bit
+Java home: 	C:/Xilinx/Vivado/2018.3/tps/win64/jre9.0.4
+Java executable location: 	C:/Xilinx/Vivado/2018.3/tps/win64/jre9.0.4/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	Zain
+User home directory: C:/Users/Zain
+User working directory: C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2018.3
+RDI_DATADIR: C:/Xilinx/Vivado/2018.3/data
+RDI_BINDIR: C:/Xilinx/Vivado/2018.3/bin
+
+Vivado preferences file location: C:/Users/Zain/AppData/Roaming/Xilinx/Vivado/2018.3/vivado.xml
+Vivado preferences directory: C:/Users/Zain/AppData/Roaming/Xilinx/Vivado/2018.3/
+Vivado layouts directory: C:/Users/Zain/AppData/Roaming/Xilinx/Vivado/2018.3/layouts
+PlanAhead jar file location: 	C:/Xilinx/Vivado/2018.3/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/vivado.log
+Vivado journal file location: 	C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/vivado.jou
+Engine tmp dir: 	C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/.Xil/Vivado-8508-DESKTOP-S3PLTBA
+
+Xilinx Environment Variables
+----------------------------
+XILINX: C:/Xilinx/Vivado/2018.3/ids_lite/ISE
+XILINX_DSP: C:/Xilinx/Vivado/2018.3/ids_lite/ISE
+XILINX_PLANAHEAD: C:/Xilinx/Vivado/2018.3
+XILINX_SDK: C:/Xilinx/SDK/2018.3
+XILINX_VIVADO: C:/Xilinx/Vivado/2018.3
+XILINX_VIVADO_HLS: C:/Xilinx/Vivado/2018.3
+
+
+GUI allocated memory:	154 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 608 MB
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// bx (cp):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\Zain\Documents\GitHub\Vivado-9-Bit-Processor\CA\CA.xpr. Version: Vivado v2018.3 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.xpr 
+// Tcl Message: open_project C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'C:/Users/adams/Desktop/PrjAr/_X_' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'. 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 85 MB (+86972kb) [00:00:09]
+// [Engine Memory]: 647 MB (+527059kb) [00:00:09]
+// [GUI Memory]: 97 MB (+7557kb) [00:00:09]
+// [GUI Memory]: 115 MB (+14396kb) [00:00:10]
+// WARNING: HEventQueue.dispatchEvent() is taking  3454 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 693 MB. GUI used memory: 66 MB. Current time: 3/10/19, 1:58:26 PM EDT
+// Tcl Message: open_project: Time (s): cpu = 00:00:15 ; elapsed = 00:00:06 . Memory (MB): peak = 712.242 ; gain = 106.602 
+// [Engine Memory]: 697 MB (+18488kb) [00:00:13]
+// Project name: CA; location: C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA; part: xa7a12tcpg238-2I
+dismissDialog("Open Project"); // bx (cp)
+// Tcl Message: update_compile_order -fileset sources_1 
+// PAPropertyPanels.initPanels (NORUnit.v) elapsed time: 0.2s
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, NORUnit (NORUnit.v)]", 1, true); // B (D, cp) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, NORUnit (NORUnit.v)]", 1, true, false, false, false, false, true); // B (D, cp) - Double Click - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, NORUnit (NORUnit.v)]", 1, true); // B (D, cp) - Node
+// [GUI Memory]: 123 MB (+1414kb) [00:00:22]
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, NORUnit (NORUnit.v)]", 1, true, false, false, false, false, true); // B (D, cp) - Double Click - Node
+selectCodeEditor("NORUnit.v", 319, 422); // cl (w, cp)
+selectCodeEditor("NORUnit.v", 718, 517); // cl (w, cp)
+selectCodeEditor("NORUnit.v", 266, 332); // cl (w, cp)
+selectCodeEditor("NORUnit.v", 285, 398); // cl (w, cp)
+selectCodeEditor("NORUnit.v", 350, 430); // cl (w, cp)
+selectButton(RDIResourceCommand.RDICommands_SAVE_FILE, (String) null); // B (f, cp)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE

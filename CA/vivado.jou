@@ -2,18 +2,13 @@
 # Vivado v2018.3 (64-bit)
 # SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
 # IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
-# Start of session at: Sun Mar 10 13:26:26 2019
-# Process ID: 15536
-# Current directory: C:/Users/adams/AppData/Roaming/Xilinx/Vivado
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16072
-# Log file: C:/Users/adams/AppData/Roaming/Xilinx/Vivado/vivado.log
-# Journal file: C:/Users/adams/AppData/Roaming/Xilinx/Vivado\vivado.jou
+# Start of session at: Sun Mar 10 13:58:10 2019
+# Process ID: 8508
+# Current directory: C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7900 C:\Users\Zain\Documents\GitHub\Vivado-9-Bit-Processor\CA\CA.xpr
+# Log file: C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/vivado.log
+# Journal file: C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA\vivado.jou
 #-----------------------------------------------------------
 start_gui
-open_project {C:/Users/adams/Documents/Lab 2 newest version/9-Bit Adder - Computer Architecture Lab 2/9-Bit Adder - Computer Architecture Lab 2.xpr}
+open_project C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.xpr
 update_compile_order -fileset sources_1
-update_compile_order -fileset sources_1
-update_compile_order -fileset sources_1
-archive_project {C:/Users/adams/Documents/Computer Architecure Lab 3a.xpr.zip} -temp_dir C:/Users/adams/Desktop -force -include_local_ip_cache
-save_project_as CA C:/Users/adams/Documents/CA -force
-archive_project C:/Users/adams/Documents/f.xpr.zip -temp_dir C:/Users/adams/Desktop -force -include_local_ip_cache
