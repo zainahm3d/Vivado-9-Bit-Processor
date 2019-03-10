@@ -2,13 +2,13 @@
 # Vivado v2018.3 (64-bit)
 # SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
 # IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
-# Start of session at: Sun Mar 10 13:58:10 2019
-# Process ID: 8508
-# Current directory: C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7900 C:\Users\Zain\Documents\GitHub\Vivado-9-Bit-Processor\CA\CA.xpr
-# Log file: C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/vivado.log
-# Journal file: C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA\vivado.jou
+# Start of session at: Sun Mar 10 14:02:52 2019
+# Process ID: 12536
+# Current directory: C:/Users/Noahb/Documents/GitHub/Vivado-9-Bit-Processor/CA
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7044 C:\Users\Noahb\Documents\GitHub\Vivado-9-Bit-Processor\CA\CA.xpr
+# Log file: C:/Users/Noahb/Documents/GitHub/Vivado-9-Bit-Processor/CA/vivado.log
+# Journal file: C:/Users/Noahb/Documents/GitHub/Vivado-9-Bit-Processor/CA\vivado.jou
 #-----------------------------------------------------------
 start_gui
-open_project C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.xpr
+open_project C:/Users/Noahb/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.xpr
 update_compile_order -fileset sources_1
