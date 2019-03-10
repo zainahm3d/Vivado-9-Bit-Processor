@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.sim/sim_1/behav/xsim/glbl.v,1552240648,verilog,,,,glbl,,,,,,,,
+C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.srcs/sim_1/new/pcTestBench.v,1552246753,verilog,,,,pcTestBench,,,,,,,,
+C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.srcs/sources_1/imports/Documents/FetchUnit.v,1552244920,verilog,,C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.srcs/sources_1/new/PCRegister.v,,Add1;Fetch;FetchUnit,,,,,,,,
+C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.srcs/sources_1/new/PCRegister.v,1552240648,verilog,,C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.srcs/sim_1/new/pcTestBench.v,,PCRegister,,,,,,,,
+C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.srcs/sources_1/new/fetchTestBench.v,1552245167,verilog,,,,fetchTestBench,,,,,,,,

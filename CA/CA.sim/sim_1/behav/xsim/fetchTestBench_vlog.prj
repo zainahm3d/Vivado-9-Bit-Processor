@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CA.srcs/sources_1/imports/Documents/FetchUnit.v" \
+"../../../../CA.srcs/sources_1/new/PCRegister.v" \
+"../../../../CA.srcs/sources_1/new/fetchTestBench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

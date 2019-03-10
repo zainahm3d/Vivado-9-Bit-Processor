@@ -24,7 +24,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='C:/Users/adams/Documents/Lab 2 newest version/9-Bit Adder - Computer Architecture Lab 2/9-Bit Adder - Computer Architecture Lab 2.runs/synth_1'
+HD_PWD='C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.runs/synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log
@@ -40,4 +40,4 @@ EAStep()
      fi
 }
 
-EAStep vivado -log FetchUnit.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source FetchUnit.tcl
+EAStep vivado -log NORUnit.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source NORUnit.tcl

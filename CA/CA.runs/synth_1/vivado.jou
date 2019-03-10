@@ -2,11 +2,11 @@
 # Vivado v2018.3 (64-bit)
 # SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
 # IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
-# Start of session at: Thu Feb 21 14:30:41 2019
-# Process ID: 7400
-# Current directory: C:/Users/adams/Documents/Lab 2 newest version/9-Bit Adder - Computer Architecture Lab 2/9-Bit Adder - Computer Architecture Lab 2.runs/synth_1
-# Command line: vivado.exe -log FetchUnit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source FetchUnit.tcl
-# Log file: C:/Users/adams/Documents/Lab 2 newest version/9-Bit Adder - Computer Architecture Lab 2/9-Bit Adder - Computer Architecture Lab 2.runs/synth_1/FetchUnit.vds
-# Journal file: C:/Users/adams/Documents/Lab 2 newest version/9-Bit Adder - Computer Architecture Lab 2/9-Bit Adder - Computer Architecture Lab 2.runs/synth_1\vivado.jou
+# Start of session at: Sun Mar 10 15:22:28 2019
+# Process ID: 10220
+# Current directory: C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.runs/synth_1
+# Command line: vivado.exe -log NORUnit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source NORUnit.tcl
+# Log file: C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.runs/synth_1/NORUnit.vds
+# Journal file: C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.runs/synth_1\vivado.jou
 #-----------------------------------------------------------
-source FetchUnit.tcl -notrace
+source NORUnit.tcl -notrace
