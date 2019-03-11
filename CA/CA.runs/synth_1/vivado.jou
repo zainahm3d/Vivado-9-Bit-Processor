@@ -2,11 +2,11 @@
 # Vivado v2018.3 (64-bit)
 # SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
 # IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
-# Start of session at: Sun Mar 10 15:22:28 2019
-# Process ID: 10220
+# Start of session at: Sun Mar 10 20:38:55 2019
+# Process ID: 11396
 # Current directory: C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.runs/synth_1
-# Command line: vivado.exe -log NORUnit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source NORUnit.tcl
-# Log file: C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.runs/synth_1/NORUnit.vds
+# Command line: vivado.exe -log CPU9bits.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CPU9bits.tcl
+# Log file: C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.runs/synth_1/CPU9bits.vds
 # Journal file: C:/Users/Zain/Documents/GitHub/Vivado-9-Bit-Processor/CA/CA.runs/synth_1\vivado.jou
 #-----------------------------------------------------------
-source NORUnit.tcl -notrace
+source CPU9bits.tcl -notrace

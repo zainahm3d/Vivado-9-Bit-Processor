@@ -45,9 +45,19 @@ module CPU9bits(
     //for fetch unit
     wire instructionFromFetch;
     
+    //for memory
+    wire memReadEN;
+    wire memWriteEN;
+//    wire [8:0] memAddress; //using ALU output instead (look at diagram)
+    wire [8:0] memWriteData;
+    wire [8:0] memReadData;
+    
     ALU alu(opcode, ALUinput1, ALUinput2, immediateData, ALUoutput);
     RegisterFile regFile(reset, clock, op_index0, op_index1, write_index, write_data, op0, op1);
     FetchUnit fetch(clock, instructionFromFetch);
+    Memory memory(ALUoutput, memReadEN, memWriteEN, memWriteData, memReadData); //using ALU output as address
+    
+    
     //InstructionDecode control(clock, instructionFromFetch, opcode, 
     
 endmodule
